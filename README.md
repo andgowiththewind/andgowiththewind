@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=andgowiththewind&theme=algolia)](https://github.com/andgowiththewind/andgowiththewind)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andgowiththewind&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Hi there 👋
 
