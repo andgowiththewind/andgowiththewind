@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=andgowiththewind&theme=algolia)](https://github.com/andgowiththewind/andgowiththewind)
+
 ## Hi there 👋
 
 <!--
