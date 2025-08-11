@@ -2,6 +2,14 @@
 
 ## Hi there 👋
 
+
+
+## ⚡Skills
+
+[![My Skills](https://skillicons.dev/icons?i=go,java,spring,mysql,redis,nginx,js,html,css,react,discord,docker,git,github,gitlab,idea,remix,linux,md,postman,sublime)](https://skillicons.dev)
+
+
+
 <!--
 **andgowiththewind/andgowiththewind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
