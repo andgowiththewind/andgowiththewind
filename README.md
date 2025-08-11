@@ -6,7 +6,7 @@
 
 ## ⚡Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,spring,mysql,redis,nginx,js,html,css,react,vue,discord,docker,git,github,gitlab,idea,remix,linux,md,postman,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,spring,mysql,sqlite,redis,nginx,js,html,css,jquery,react,vue,discord,docker,git,github,gitlab,idea,remix,linux,md,postman,sublime,ai,jenkins,maven,nodejs,rabbitmq,twitter)](https://skillicons.dev)
 
 
 
